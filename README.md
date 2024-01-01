@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou o Caio Dias</h1>
+<h1 align="center">Olá! 👋, Eu sou o Caio Dias</h1>
 <h3 align="center">Apaixonado por programação e análise de dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Python, Data Science, Software Engineering e HMTL/CSS**
